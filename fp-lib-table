@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name UFQPFN28)(type KiCad)(uri ${KIPRJMOD}/mod/UFQPFN28.pretty)(options "")(descr ""))
+)
