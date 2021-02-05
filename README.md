@@ -12,7 +12,9 @@ Reset was not tested.
 
 I didn't have the exact switch (KMR2) but one with an extra ground tab (KMR2xxG) but you that's not a problem - the ground tab doesn't touch antything.
 
-The boreakout board was not tested with external circuitry yet.
+Flashing a binary with st-flash worked too.
+
+The breakout board was not tested with external circuitry yet.
 
 ## Short description
 
